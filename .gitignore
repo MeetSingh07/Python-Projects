@@ -10,3 +10,5 @@ a.exe
 
 # Ignore VS Code settings
 .vscode/
+
+passwords.txt
